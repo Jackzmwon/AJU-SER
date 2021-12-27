@@ -959,7 +959,7 @@ sendEphemeral: false,
                 "body": `wa.me/918075641889`,
                 "mediaType": "10",
                 "mediaUrl": `wa.me/918075641889`,
-                "thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+                "thumbnailUrl": "https://i.imgur.com/hIEaHSu.jpeg",
                 "thumbnail": iye,
                 "sourceUrl": `wa.me/918075641889`,
 },mentionedJid:[sender]}, quoted : mek})
@@ -1951,9 +1951,9 @@ case 'buglink':
                 "title": `${virtex2(prefix)}`,
                 "body": "",
                 "previewType": "PHOTO",
-                "thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+                "thumbnailUrl": "https://i.imgur.com/hIEaHSu.jpeg",
                 "thumbnail": fs.readFileSync(`./xeon.jpg`),
-                "sourceUrl": "https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA"}}})
+                "sourceUrl": "https://youtube.com/channel/UCW_2IkmRb85bZFl4uxs4XbQ"}}})
                 break
         case 'bugbutton':
         if (!isOwner && !mek.key.fromMe) return reply('Only owner can use this feature')
