@@ -93,7 +93,7 @@ const truth = JSON.parse(fs.readFileSync('./database/truth.json'))
 const dare = JSON.parse(fs.readFileSync('./database/dare.json'))
 // BATAS IMAGE FOLDER //
 const iye = fs.readFileSync('./stik/thumb.jpeg')
-const asw1 = 'https://i.ibb.co/kQ98t1k/AJU.jpg'
+const asw1 = 'https://i.imgur.com/hIEaHSu.jpeg'
 const sip = fs.readFileSync('./stik/oksip.jpeg')
 const bgg = fs.readFileSync('./stik/fake.jpeg')
 //// Image ///
@@ -944,7 +944,7 @@ sendEphemeral: false,
                 "title": `Whatsapp-BOT\n𝖠𝖭𝖩𝖠𝖫𝖨 𝖬𝖶𝖮𝖫😎. (@nnda.krnwn_) •Instagram photos and Videos`,
                 "body": "",
                 "previewType": "PHOTO",
-                "thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+                "thumbnailUrl": "https://i.imgur.com/hIEaHSu.jpeg",
                 "thumbnail": fake,
                 "sourceUrl": ``
 },mentionedJid:[sender]}, quoted : fgif})
@@ -973,7 +973,7 @@ sendEphemeral: false,
 "title": `Hello ${pushname}` ,
 "body": `${ucapanWaktu}`,
 "mediaType": "2",
-"thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+"thumbnailUrl": "https://i.imgur.com/hIEaHSu.jpeg",
 "mediaUrl": "https://youtube.com/channel/UCW_2IkmRb85bZFl4uxs4XbQ",
 "thumbnail": fs.readFileSync('./stik/thumb.jpeg'),
 "sourceUrl": "",
