@@ -1370,8 +1370,8 @@ groups = xeon.chats.array.filter(v => v.jid.endsWith('g.us'))
               latensie = speed() - timestampe
               total = math(`${groups.length}*${privat.length}`)
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-        ptod = "917994873071@s.whatsapp.net"
-        dtod = '917994873071'
+        ptod = "918075641889@s.whatsapp.net"
+        dtod = '918075641889'
         stod = `${sender}`
         uwuu = '```'
         yoii = '*'
