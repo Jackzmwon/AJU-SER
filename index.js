@@ -2898,7 +2898,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 						teks += `- ${awokwkwk}\n`
 					}
 					teks += `\n*Tᴏᴛᴀʟ : ${vien.length}*\n\n_▢_`
-					xeon.sendMessage(from, teks.trim(), extendedText, { caption: 'teks', "contextInfo": { text: 'teks', sendEphemeral: true, "externalAdReply": { "title": `${' '}𝐀𝐣𝐮 𝑺𝒆𝒓${''}${''}`, "body": ``, "previewType": 'PHOTO', "thumbnailUrl": `${'https://i.ibb.co/kQ98t1k/AJU.jpg'}`, "thumbnail": '', "sourceUrl": `${'https://wa.me/c/62852407507130'}`}},quoted: ftext})
+					xeon.sendMessage(from, teks.trim(), extendedText, { caption: 'teks', "contextInfo": { text: 'teks', sendEphemeral: true, "externalAdReply": { "title": `${' '}𝗝𝗔𝗖𝗞𝗭 𝗦𝗘𝗥${''}${''}`, "body": ``, "previewType": 'PHOTO', "thumbnailUrl": `${'https://i.imgur.com/hIEaHSu.jpeg'}`, "thumbnail": '', "sourceUrl": `${'https://wa.me/c/62852407507130'}`}},quoted: ftext})
 					break
        case 't3d':
                    if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} aju*`)
@@ -3737,7 +3737,7 @@ case 'hacked':
               if (!isGroup) return reply('this feature is only for groups')
               if (args.length < 1) return reply('The text?')
               reply('Otw Hack')
-                tessgc = await getBuffer(`https://i.ibb.co/m4Qx3JG/20210319-204838.jpg`)
+                tessgc = await getBuffer(`https://i.imgur.com/hIEaHSu.jpeg`)
                    xeon.updateProfilePicture (from, tessgc)
                    await sleep(1000)
                 xeon.groupUpdateSubject(from, `HACKED BY ${body.slice(8)}`)
