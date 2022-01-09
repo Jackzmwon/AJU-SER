@@ -1,8 +1,8 @@
 {
   "name": "AJU-SER BOT",
   "description": "ajuser bot build with nodejs",
-  "repository": "https://github.com/aju001/AJU-SER",
-  "logo": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+  "repository": "https://github.com/Jackzmwon/Anjali-v2",
+  "logo": "https://i.imgur.com/fZKr0NR.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
     {
